@@ -13,6 +13,7 @@ namespace HelloWorld
             string message = "Have you heard the tragedy of Darth Plageius The Wise?";
 
             // Cooking Recipe / Instructions
+            Console.ReadLine();
             Console.WriteLine(message);
             Console.ReadLine(); // Polls for input
 
